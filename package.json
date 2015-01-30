@@ -24,7 +24,9 @@
     "moment": "^2.9.0",
     "qiniu": "^6.1.6",
     "underscore": "^1.7.0",
-    "walk": "^2.3.9"
+    "walk": "^2.3.9",
+    "gaze": "~0.6.4",
+    "chokidar": "~0.12.6"
   },
   "private": true
 }
